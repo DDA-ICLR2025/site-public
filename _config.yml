@@ -3,12 +3,12 @@ email: njkrichardson@princeton.edu
 description: 
   <center> Workshop organization site for Distributed, Decentralized, and Asynchronous Machine Learning (DDA), 
   which we hope to host at ICLR 2025 at the Singapore EXPO. </center> 
-baseurl: "/site-public/"
+baseurl: ""
 url: "https://dda-iclr2025.github.io/" 
 github_username: njkrichardson
 
 navigation:
-  Home: "/"
+  Home: "/site-public/"
   Call for Papers: "/call-for-papers"
   Speakers: "/speakers"
   Organizers: "/organizers"
