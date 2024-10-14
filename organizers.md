@@ -5,7 +5,7 @@ layout: default
 # Organizers
 
 <div class='orgWrapper'>
-<img src="./assets/images/placeholder.png" alt="Ryan P. Adams" width="150" />
+<img src="./assets/images/organizers/ryan_adams.png" alt="Ryan P. Adams" width="150" />
 <div class='bioWrapper'>
 [**Ryan Adams**]()
 </div>
@@ -27,14 +27,21 @@ layout: default
 </div>
 
 <div class='orgWrapper'>
-<img src="./assets/images/placeholder.png" alt="Nick Richardson" width="150" />
+<img src="./assets/images/organizers/marc_aurelio_ranzato.png" alt="Marc'Aurelio Ranzato" width="150" />
+<div class='bioWrapper'>
+[**Marc'Aurelio Ranzato**]()
+</div>
+</div>
+
+<div class='orgWrapper'>
+<img src="./assets/images/organizers/nick_richardson.png" alt="Nick Richardson" width="150" />
 <div class='bioWrapper'>
 [**Nick Richardson**]()
 </div>
 </div>
 
 <div class='orgWrapper'>
-<img src="./assets/images/placeholder.png" alt="Rodrigue de Schaetzen" width="150" />
+<img src="./assets/images/organizers/rodrigue_schaetzen.png" alt="Rodrigue de Schaetzen" width="150" />
 <div class='bioWrapper'>
 [**Rodrigue de Schaetzen**]() 
 </div>
@@ -47,6 +54,12 @@ layout: default
 </div>
 </div>
 
+<div class='orgWrapper'>
+<img src="./assets/images/organizers/mengdi_wang.png" alt="Mengdi Wang" width="150" />
+<div class='bioWrapper'>
+[**Mengdi Wang**]()
+</div>
+</div>
 
 
 <div class='orgWrapper'>
