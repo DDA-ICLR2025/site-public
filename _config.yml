@@ -8,7 +8,7 @@ url: ""
 github_username: njkrichardson
 
 navigation:
-  Home: "/index"
+  Home: "{{ site.baseurl }}/index"
   Call for Papers: "/call-for-papers"
   Speakers: "/speakers"
   Organizers: "/organizers"
