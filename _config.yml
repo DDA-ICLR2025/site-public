@@ -9,7 +9,7 @@ github_username: njkrichardson
 
 navigation:
   Home: "/"
-  Call for Papers: "{{site.baseurl}}/call-for-papers"
+  Call for Papers: "./call-for-papers"
   Speakers: "/site-public/speakers"
   Organizers: "/organizers"
   Schedule: "/schedule"
