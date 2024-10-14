@@ -69,7 +69,7 @@ a {
 .btn {
   display: inline-block;
   margin-bottom: 0.5rem;
-  margin-left: 13rem; 
+  margin-left: auto; 
 
   color: rgba(255, 255, 255, 0.7);
   background-color: rgba(255, 255, 255, 0.08);
@@ -87,7 +87,7 @@ a {
   }
 
   + .btn {
-    margin-left: 0.5rem;
+    margin-left: 0.75rem;
   }
 
   @include large {
