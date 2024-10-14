@@ -8,12 +8,12 @@ url: "https://dda-iclr2025.github.io/"
 github_username: njkrichardson
 
 navigation:
-  Home: "/"
+  Home: "./"
   Call for Papers: "./call-for-papers"
-  Speakers: "/site-public/speakers"
-  Organizers: "/organizers"
-  Schedule: "/schedule"
-  Accepted Papers: "/accepted-papers"
+  Speakers: "./speakers"
+  Organizers: "./organizers"
+  Schedule: "./schedule"
+  Accepted Papers: "./accepted-papers"
 
 plugins:
   - jekyll-feed

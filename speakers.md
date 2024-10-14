@@ -5,7 +5,7 @@ layout: default
 # Speakers
 
 <div class='orgWrapper'>
-<img src="/assets/images/placeholder.png" alt="Christopher Amato" width="150" />
+<img src="./assets/images/placeholder.png" alt="Christopher Amato" width="150" />
 <div class='bioWrapper'>
 [**Christopher Amato**]()
 </div>
