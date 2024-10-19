@@ -12,9 +12,11 @@ Neural networks are increasingly being trained and deployed in distributed compu
 Some specific questions that this workshop aims to address include, but are not limited to:
   - How can insights and results from traditional decentralized and asynchronous algorithms be applied to machine learning?
   - How can asynchronous and/or decentralized methods be used to leverage different types of computing hardware (e.g. neuromorphic hardware)?
-  - What are the effects on efficiency, scalability, and task performance that result from employing asynchronous and/or decentralized methods? How can we design robust evaluation metrics and benchmarks for decentralized and asynchronous machine learning systems to assess their performance?
+  - What are the effects on efficiency, scalability, and task performance that result from employing asynchronous and/or decentralized methods?
+  - How can we design robust evaluation metrics and benchmarks for decentralized and asynchronous machine learning systems to assess their performance?
   - How can decentralized methods for training and inference be leveraged for applications requiring privacy preservation?
-  - In multi-agent systems, how can agents effectively coordinate collective learning without a central coordinator? What are the effects of asynchronous communication and decision making in this context?
+  - In multi-agent systems, how can agents effectively coordinate collective learning without a central coordinator? 
+  - What are the effects of asynchronous communication and decision making in this context?
   - What are the implications of using decentralized learning in dynamic environments where the topology of the network connecting machines may change over time?
 
 The workshop encourages submissions which consider asynchrony or decentralization in areas including, but not limited to:
