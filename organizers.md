@@ -13,14 +13,14 @@ layout: default
 
 
 <div class='orgWrapper'>
-<img src="./assets/images/placeholder.png" alt="Youssef Farag" width="150" />
+<img src="./assets/images/organizers/youssef_farag.png" alt="Youssef Farag" width="150" />
 <div class='bioWrapper'>
 [**Youssef Farag**](https://www.linkedin.com/in/youssef-farag-45a7a0138/?originalSubdomain=ch)
 </div>
 </div>
 
 <div class='orgWrapper'>
-<img src="./assets/images/placeholder.png" alt="Adel Nabli" width="150" />
+<img src="./assets/images/organizers/adel_nabli.png" alt="Adel Nabli" width="150" />
 <div class='bioWrapper'>
 [**Adel Nabli**](https://www.linkedin.com/in/adel-nabli/?locale=en_US)
 </div>
@@ -48,7 +48,7 @@ layout: default
 </div>
 
 <div class='orgWrapper'>
-<img src="./assets/images/placeholder.png" alt="Olga Solodova" width="150" />
+<img src="./assets/images/organizers/olga_solodova.png" alt="Olga Solodova" width="150" />
 <div class='bioWrapper'>
 [**Olga Solodova**](https://www.linkedin.com/in/olga-solodova-9b138318b/) 
 </div>
@@ -63,7 +63,7 @@ layout: default
 
 
 <div class='orgWrapper'>
-<img src="./assets/images/placeholder.png" alt="Christian Weilbach" width="150" />
+<img src="./assets/images/organizers/christian_weilbach.png" alt="Christian Weilbach" width="150" />
 <div class='bioWrapper'>
 [**Christian Weilbach**](https://whilo.github.io/#/all-pages)
 </div>
